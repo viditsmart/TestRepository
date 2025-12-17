@@ -1,2 +1,2 @@
 # TestRepository
-This is a github repository for testing github
+This is a github repository for testing github by Vidit Sharma.
